@@ -20,7 +20,7 @@
 ```javascript
 const kathiravan = {
     role: "Full Stack Developer",
-    location: "Puducherry, India",
+    location: "Chennai, India",
     experience: "1+ Years",
     stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
     currentStatus: "Open to Opportunities 🟢",
