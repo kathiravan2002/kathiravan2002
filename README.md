@@ -2,7 +2,7 @@
 
 # 👨‍💻 Kathiravan G
 
-### Full Stack Developer | MERN Stack Specialist
+### MERN Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kathiravangnanavel-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kathiravangnanavel)
@@ -103,8 +103,6 @@ I'm seeking challenging opportunities where I can leverage my full-stack experti
 [![Phone](https://img.shields.io/badge/8870212387-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:8870212387)
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=kathiravan2002&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 ### 💡 *"Clean code, scalable architecture, exceptional user experience"*
 
