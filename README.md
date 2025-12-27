@@ -78,94 +78,11 @@ Passionate MERN Stack Developer with hands-on experience in building production-
 - Implemented role-based authentication and authorization
 - Conducted testing, debugging, and deployment processes
 
----
-
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 💬 WhatsApp CRM Platform
-**Tech Stack:** React.js • Node.js • MongoDB • WhatsApp-web.js
-
-A comprehensive CRM system with WhatsApp integration featuring:
-- 🔐 Role-based authentication
-- 📤 Bulk messaging (100+ contacts)
-- 📎 Multi-media support (images, videos, documents)
-- 📊 Admin dashboard with analytics
-
-</td>
-<td width="50%">
-
-### 🛒 E-Commerce Platform
-**Tech Stack:** MERN Stack • WhatsApp Integration
-
-Full-featured e-commerce solution with:
-- 🛍️ Product & category management
-- 🔒 Secure JWT authentication
-- 📱 WhatsApp order notifications
-- ⚡ Optimized CRUD operations
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ✈️ Travel Booking Website
-**Tech Stack:** React.js • Tailwind CSS • WhatsApp API
-
-Modern travel booking platform featuring:
-- 🎨 Responsive, intuitive UI
-- 📱 WhatsApp instant enquiries
-- 🚀 SEO optimized
-- 📦 Package management system
-
-</td>
-<td width="50%">
-
-### 🚚 Courier Management System
-**Tech Stack:** React.js • Node.js • MongoDB
-
-Logistics management solution with:
-- 📍 Real-time shipment tracking
-- 🔐 Secure authentication
-- 📊 Operations dashboard
-- ⚡ Scalable backend architecture
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kathiravan2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kathiravan2002&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathiravan2002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" alt="Top Languages" height="180"/>
-
-</div>
-
----
-
-## 🎓 Education
-
-**B.E in Computer Science and Engineering**  
-📍 Tagore Institute of Engineering and Technology  
-📅 2020 - 2024 | 🎯 CGPA: 7.98
-
----
-
 ## 🎯 What I'm Looking For
 
 ```typescript
 interface IdealRole {
-    position: "MERN Stack Developer" | "Full Stack Developer" | "Software Engineer";
+    position: "MERN Stack Developer" | "Full Stack Developer" | "Front-End Developer" | "Back-End Developer";
     environment: "Collaborative" | "Fast-paced" | "Innovative";
     focus: ["Scalable Applications", "Modern Tech Stack", "Growth Opportunities"];
     workMode: "Remote" | "Hybrid" | "On-site";
